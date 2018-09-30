@@ -31,7 +31,7 @@ var getPromisedCordovaExec = function (command, success, fail) {
                 fail = e;
             });
         } else {
-            return console.error('AppVersion either needs a success callback, or jQuery/AngularJS/Promise/WinJS.Promise defined for using promises');
+            return console.error('PgyerPlugin either needs a success callback, or jQuery/AngularJS/Promise/WinJS.Promise defined for using promises');
         }
     }
     // 5th param is NOT optional. must be at least empty array
