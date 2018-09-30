@@ -1,2 +1,1 @@
-# pgyerplugin
-pgyerplugin
+# PgyerPlugin

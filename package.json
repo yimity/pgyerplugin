@@ -1,0 +1,39 @@
+{
+  "_from": "pgyerplugin@^1.0.2",
+  "_id": "pgyerplugin@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Ab+zW6YOxYNZ+G3050vsPzCJ1zGr7iMHUQHh3jkfSoWgH4BFyXkpzbizyLOHjKoWCvKNWTw9W8Ibi/3Gf9/gcw==",
+  "_location": "/pgyerplugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "pgyerplugin@^1.0.2",
+    "name": "pgyerplugin",
+    "escapedName": "pgyerplugin",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/pgyerplugin/-/pgyerplugin-1.0.2.tgz",
+  "_shasum": "c1ddb2ef54eeabc28d59433e14079b7afe8b57cf",
+  "_spec": "pgyerplugin@^1.0.2",
+  "_where": "/Users/andrew/Documents/mkapp/matdatamobile",
+  "author": {
+    "name": "Frank"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "蒲公英SDK Cordova插件",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "pgyerplugin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
